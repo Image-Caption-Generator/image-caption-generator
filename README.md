@@ -1,4 +1,4 @@
-### Hi there 👋
+Image Caption Generator
 
 <!--
 **Image-Caption-Generator/image-caption-generator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
